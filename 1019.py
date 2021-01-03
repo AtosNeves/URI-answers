@@ -8,4 +8,4 @@ segundos = minutos1 % 60
 
 
 
-print(f"{horas}:{minutos}:{segundos}"
+print(f"{horas}:{minutos}:{segundos}")
